@@ -15,10 +15,12 @@
 - https://gitorious.org/gitorious/gitorious-proto/source/4609b715d46c959ffe419d2590285ab35d5d0dc7:README.md
 - http://dannguyen.github.io/github-for-portfolios/lessons/deploy-github-pages/
 - http://peterdowns.com/posts/first-time-with-pypi.html
+- http://stackoverflow.com/questions/11868512/linking-using-relative-path-on-github-readme-md
  
 
 
 ______________________________________________________________
+
 Hello world check out my homepage!
 
 ----------------------------

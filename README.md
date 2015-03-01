@@ -32,4 +32,3 @@ Hello world check out my homepage!
 - http://username.github.io
 
 - http://gema-arta.github.io
-- 

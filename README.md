@@ -17,10 +17,11 @@
 - http://peterdowns.com/posts/first-time-with-pypi.html
 - http://stackoverflow.com/questions/11868512/linking-using-relative-path-on-github-readme-md
 - http://devchat.tv/js-jabber/098-jsj-assemble-io-with-brian-woodward-and-jon-schlinkert
-- 
- 
-
-
+- [@thomasfuchs]:http://twitter.com/thomasfuchs
+- http://moduscreate.com/editing-markdown-for-github/
+- http://dillinger.io/
+- https://github.com/gollum/gollum
+- test
 ______________________________________________________________
 
 Hello world check out my homepage!
@@ -29,3 +30,4 @@ Hello world check out my homepage!
 - http://username.github.io
 
 - http://gema-arta.github.io
+- 

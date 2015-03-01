@@ -9,3 +9,15 @@
 - https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/README.md
 - (md:https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/README.md)
 - [md:https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/README.md]
+- https://www.omniref.com/js/npm/astrolabe/0.2.9/files/Readme.md
+- https://www.omniref.com/js
+- http://ruby-doc.org//gems/docs/i/influxdb-cli-0.1.3/README_md.html
+- https://gitorious.org/gitorious/gitorious-proto/source/4609b715d46c959ffe419d2590285ab35d5d0dc7:README.md
+- http://dannguyen.github.io/github-for-portfolios/lessons/deploy-github-pages/
+
+Hello world check out my homepage!
+
+
+----------------------------
+http://username.github.io
+http://gema-arta.github.io

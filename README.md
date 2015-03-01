@@ -16,6 +16,8 @@
 - http://dannguyen.github.io/github-for-portfolios/lessons/deploy-github-pages/
 - http://peterdowns.com/posts/first-time-with-pypi.html
 - http://stackoverflow.com/questions/11868512/linking-using-relative-path-on-github-readme-md
+- http://devchat.tv/js-jabber/098-jsj-assemble-io-with-brian-woodward-and-jon-schlinkert
+- 
  
 
 

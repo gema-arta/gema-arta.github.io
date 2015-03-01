@@ -14,10 +14,14 @@
 - http://ruby-doc.org//gems/docs/i/influxdb-cli-0.1.3/README_md.html
 - https://gitorious.org/gitorious/gitorious-proto/source/4609b715d46c959ffe419d2590285ab35d5d0dc7:README.md
 - http://dannguyen.github.io/github-for-portfolios/lessons/deploy-github-pages/
+- http://peterdowns.com/posts/first-time-with-pypi.html
+ 
 
+
+______________________________________________________________
 Hello world check out my homepage!
 
-
 ----------------------------
-http://username.github.io
-http://gema-arta.github.io
+- http://username.github.io
+
+- http://gema-arta.github.io
